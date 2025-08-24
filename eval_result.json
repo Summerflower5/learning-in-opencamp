@@ -6,7 +6,7 @@
     },
     {
       "name": "exercise01",
-      "result": false
+      "result": true
     },
     {
       "name": "exercise02",
@@ -139,8 +139,8 @@
   ],
   "statistics": {
     "total_exercations": 34,
-    "total_succeeds": 1,
-    "total_failures": 33,
+    "total_succeeds": 2,
+    "total_failures": 32,
     "total_time": 25
   }
 }
